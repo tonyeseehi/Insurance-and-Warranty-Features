@@ -441,7 +441,6 @@
         )
     )
 )
-
 ;; Warranty system functions
 (define-public (create-warranty 
     (instrument-id uint) 

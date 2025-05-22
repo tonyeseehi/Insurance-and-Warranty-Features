@@ -344,7 +344,6 @@
         )
     )
 )
-
 ;; Helper to update claim status using fold
 (define-private (update-claims-fold
     (claim {

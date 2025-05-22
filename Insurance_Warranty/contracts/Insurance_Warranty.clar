@@ -737,7 +737,6 @@
         }
     )
 )
-
 ;; Get all active policies for the caller
 (define-read-only (get-my-policies)
     (filter is-policy-owned-by-me (var-get insurance-policies))

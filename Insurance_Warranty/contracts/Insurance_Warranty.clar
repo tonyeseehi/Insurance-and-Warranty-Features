@@ -285,7 +285,6 @@
         acc
     )
 )
-
 ;; Claims processing functions
 (define-public (file-claim 
     (policy-id uint) 
